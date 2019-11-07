@@ -1,0 +1,21 @@
+Requirement             Test case
+I - 1:			Created quantites of 2,3 and 4 to sell
+I - 2a:			Entered item names (such as item or item two)
+I - 2b:			Entered price (such as 40 or 50)
+I - 2c:			Entered # of packages to get 1 free (such as 3)
+I - 3a:			Entered threshold (such as 100 or 199)
+I - 3b:			Entered rate (such as .2 or 3)
+I - 4:			Set up shop once, bought items, set up shop again
+
+II - 1:			Attempted to enter option 2 and 3 before shop setup
+II - 2a:		Entered number of packages such as -1 and 3
+II - 3:			Processed packages and called the buyItems function again
+
+III - 1:		Attempted to enter option 3 before setup
+III - 2:		Enter 0 for all items that were purchased
+III - 3a:		Entered 35 and 15 for the packages wanted to be bought
+
+IV - 1:			Attempted to enter option 4 before setup
+IV - 2:			Set up shop and attempted to enter option 4
+IV - 3:			Set up shop with 2 options and went through buying and listing methods
+IV - 4:			Run through methods 1-4 and then put 1 to re-run the program, then put 0 to exit

@@ -1,0 +1,21 @@
+1. I used a total of 11 variables in my code
+
+2. I used a double and an integer for my variable types.
+I also had one instance variable for creating a Scanner.
+
+3. I used the sample output as refrence for what types I should use. 
+For example, when asking the user to list, it only took in 1 or 0, so
+I figured I had to use an int. Since the user had to enter the amount in .5 
+increments, I figured that I had to use a double. These are just a few examples
+of how I decided what types each variable should be.
+
+4. The difference is that println prints whatever it is supposed to and then moves
+to the next line, so that the output doesn't get bunched up. Print will display the statement
+and will continue on that very same line. Println will go to the next line after printing
+
+5. I did use both. I used println mostly for listing the cheeses and I used print
+for whenver I took input from the user since the sample input has it on the same line.
+
+6. Well, the line "System.out.println();" by itself would display nothing to the user.
+If the question refers to how println works, it would print whatver is inside the () to 
+the user and then shift to the next line for further usage.

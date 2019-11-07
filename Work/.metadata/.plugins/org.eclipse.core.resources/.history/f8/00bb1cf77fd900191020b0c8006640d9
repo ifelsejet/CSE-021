@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+public class CheeseShop {
+	public static void main(String[] args) {
+		
+		//Variables
+		Scanner scnr = new Scanner(System.in);
+		int hFog = 0, redHawk = 0, teleme = 0, itemList =0;
+		double total = 0;
+		
+		
+		System.out.println("We sell 3 kinds of Cheese (in 0.5 lb packages):");
+		System.out.println("Humboldt Fog: $25.0 per pound");
+		System.out.println("Red Hawk: $40.5 per pound");
+		System.out.println("Teleme: $17.25 per pound");
+		
+		System.out.println("Enter the amount of Humboldt Fog in lbs: ");
+		hFog = scnr.nextInt();
+		System.out.println("Enter the amount of Red Hawk in lbs: ");
+		redHawk = scnr.nextInt();
+		System.out.println("Enter the amount of Teleme in lbs: ");
+		teleme = scnr.nextInt();
+		
+		hFog = hFog *2; // Buy one get one free
+		
+		System.out.println("Display the itemized list? (1 for yes) ");
+		itemList = scnr.nextInt();
+		
+		total = hFog 
+		
+		if(itemList == 1) {
+			if(hFog >=0) {
+			System.out.println(hFog + "lb of Humbold Fog @ $25.0 = $" + hFog * 25.0);
+			}
+			
+		}
+	}
+}

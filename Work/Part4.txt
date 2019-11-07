@@ -1,0 +1,23 @@
+1. I really didn't copy and paste code from lab 2, I refrenced parts of it such as displaying the total amount and discounts for example.
+
+2. I copied most of my code from Lab03, since it was very similar but I had to modify it to use functions.
+I copied A,B,some of C, D, and E. 
+
+3. I had to change the whole program here and there to make it work for this lab.
+For example, I had to modify C to make it based off the length of an array rather than MAXCHEESE.
+I had to make section F new, since, to me, the other labs didn't seem to overlap with F.
+Generally speaking, I like to re-write my code from the beginning so I understand what is going, however
+I do look at the other in case I forget something.
+
+4. NOTE: Assuming that we are unable to change anything in main(), the following happens when the calcSubTotal method parameters are changed:
+ i - Does not work, we are giving it a double and int and it expects a double and double.
+ii - Does not work, we are giving it a double and int and it expects a double and double.
+iii - It does work, we are feeding it a double and a double like it wanted
+iv - Does not work, it is expecting a double and a double and we are giving it an int and a double
+v - Does not work, it is expecting a double and a double and we are giving it a double and an int.
+
+The reason why the majority of the function changes do not work is due to the fact that when we call the function in main, it is expecting a certain set of parameters (double, double) which we aren't matching.
+
+If we are able to change main, the results would most likely change.
+
+

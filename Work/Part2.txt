@@ -1,0 +1,16 @@
+1) You can tell if a method is a constructor if it has no return type, matches the name of the class and is a public "function". A constructor is related to the constructor of an object.
+2) No, it would not. cheese() is just a void function
+3) It wouldnt make sense to have a private accessor method since you want to be able to access the method outside of the class. It wouldn't make sense to have a void since you want to return what the user/programmer is trying to access.
+4) Yes it would
+5) The biggest difference is that a class variable is static where instance is not. Every instance of the class could have different values for their instance variables whereas all instances of the classes will "share" the class variable.
+For a class variable, you would call it as Class.nameOfVar. A instance variable is objectName.nameofVar.
+6) Yes you could, but you would just set a variable to itself. This is why we have "this" to tell the difference.
+7) Depending on the constructor, you could tell based off the parameters given. Each constructor should have different parameters.
+8) The "." is used to refrence a certain class and a certain method that is outside of the current class (such as objectName.fieldName).
+9) Depending on what the goal is, you could.
+10) We use recursion when we ask the user if they want to redo in the code.
+11) This refers to solely the member variables within a class
+12) It should be 3.
+13) public void setName(String name) {
+this.name = name;
+}

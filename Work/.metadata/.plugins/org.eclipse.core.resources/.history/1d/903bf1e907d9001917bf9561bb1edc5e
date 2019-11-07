@@ -1,0 +1,9 @@
+public class CheeseShop {
+	public static void main(String[] args) {
+		
+		System.out.println("We sell 3 kinds of Cheese (in 0.5 lb packages):");
+		System.out.println("Humboldt Frog: $25.0 per pound");
+		System.out.println("Red Hawk: $40.5 per pound");
+		System.out.println("Teleme: $17.25 per pound");
+	}
+}

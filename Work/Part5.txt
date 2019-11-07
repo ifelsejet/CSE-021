@@ -1,0 +1,12 @@
+1. The return types are long & long.
+2. arr[i] is never allowed to go pass MAX since that will result in an out of bounds. You must iterate through each element until you reach MAX.
+3. The return types are long & long.
+4. The use of init(arr) is to initialize a new array for the functions to use.
+5. The return types are long & long.
+6. Output starts at 2 since the Fib function adds up the past 2 elements as the output, so if we started at the first or second element("array[0] or array[1]"), we would get an error.
+7. The return types are long & long.
+8. Factorial output starts at 2 since you can not do the factorial of 0, and the factorial of 1 is just one, it also wouldnt be following the factorial sequence. We start off with the factorial of 2 since it actually follows the factorial guideline(2x1).
+9. It is declared as a long since our output (as seen) can get very large, and as a safety (or even necessity), we use the long array to ensure that we will not go pass the int number maximum.
+10. Everything does not work, it gives an out of bounds error.
+You would fix it by not declaring a function that takes in an array greater than 10. 
+(For example: sumAll(arr,20))

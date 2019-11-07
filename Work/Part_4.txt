@@ -1,0 +1,10 @@
+1. You just need to change the className to ShopArr to invoke the run() function (Can elaborate)
+2. We can use cheese.length instead
+3. We can use the accessor methods to tell the difference
+4. We can tell based off their usual name (setX) and within the function, if they do something to the return variable. We could also use an accessor method as well.
+5. It changes the name of "Teleme" to "Wrong Name" (can show on my machine)
+6. We make the init function private and void for two reasons. Void, since all it is doing is "setting up" so we don't need to return anything. It is private since we don't want to be able to call the init() method outside of the class, since it would not be ideal.
+7. We know that constructors have the same name as their class, they have no return values, and they might take in parameters (or not) to *construct* an object
+8. We can use the variable "max" like we did, take the length of the array or if the array is filled with objects, we just want to take their length and not exceed that using the sizeOf function (might be too complex in this case?)
+9. We don't need to in this case, since we are just refrencing one cheese array, we could use this if we had two different arrays and wanted to reference a certian one. In short, we could but it works as is.
+10. It will print the number of cheeses the user wanted to set up (max). This could also be considered the number of Cheese objects/length of the array.

@@ -1,0 +1,27 @@
+1. An error will occur since MAXCHEESE is a constant variable and we are trying to re-assign it again.
+
+1b. The data types of names,prices and amounts are in: String, double, double respectively.
+1c. The numerical value of MAXCHEESE are the numbers of entries created
+1d. These are all invalid, they are all being passed 1 (an int) when the types are different (String, Double, Double)
+
+1e. After running those lines of code in Eclipse, I got:
+Cheese A10
+Cheese A10
+Cheese 6510
+Cheese K
+Cheese 75
+
+1f. The inital value of i is 3 since the first 3 cheeses are the "special" cheeses.
+We want to get random cheeses after those 3, so we start randomizing after 3.Hence why
+i is set to 3 to begin with. (0 is Humboldt Frog, 1 is Red Hawk, 2 is Teleme)
+
+2) I re-used the while loop to check if a number is a multiple of 0.5 and greater than 0.
+I also re-used the first introduction of code that lists the given cheeses.
+I also used the same logic for displaying the list if the user wants
+
+3) I used the random number generator,the given arrays, and the "We sell MAXCHEESE.." statement. I essentially copied
+it over to GenCheeseShop and modified it.
+
+4) I used a total of 6 loops 
+
+5) I used a combo of for and while loops

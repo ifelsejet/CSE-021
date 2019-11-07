@@ -1,0 +1,470 @@
+I - 1 to I -3 LOG:
+//2 
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 2
+
+Enter the name of the 1st product: item
+Enter the per package price of item: 40
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for item, or 0 if no Special Discount offered: 1
+Enter the name of the 2nd product: itemtwo
+Enter the per package price of itemtwo: 50
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for itemtwo, or 0 if no Special Discount offered: 3
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 3
+Invalid input. Enter a value > 0 and <= 0.5: .2
+
+//3
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 3
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 30
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 4
+Enter the name of the 2nd product: gamma
+Enter the per package price of gamma: 2
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for gamma, or 0 if no Special Discount offered: 2
+Enter the name of the 3rd product: kanye
+Enter the per package price of kanye: 3
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for kanye, or 0 if no Special Discount offered: 1
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 199
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+
+//4
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 4
+
+Enter the name of the 1st product: a
+Enter the per package price of a: 2
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for a, or 0 if no Special Discount offered: 1
+Enter the name of the 2nd product: b
+Enter the per package price of b: 3
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for b, or 0 if no Special Discount offered: 2
+Enter the name of the 3rd product: c
+Enter the per package price of c: 3
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for c, or 0 if no Special Discount offered: 2
+Enter the name of the 4th product: v
+Enter the per package price of v: 12
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for v, or 0 if no Special Discount offered: 3
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+
+//3b 
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 3
+Invalid input. Enter a value > 0 and <= 0.5: .2
+
+----------------------------------------------------------
+I - 4 LOG:
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 1
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 3
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 2
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 50
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 3
+Invalid input. Enter a value > 0 and <= 0.5: .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: 1
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 1
+
+Enter the name of the 1st product: gamma
+Enter the per package price of gamma: 20
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for gamma, or 0 if no Special Discount offered: 3
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+
+--------------------------------------------------------
+//II-1 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+----------------------------------------
+//II -2 & II -3 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 1
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 30
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 5
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 2
+Invalid input. Enter a value > 0 and <= 0.5: .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: 0
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: -1
+Invalid input. Enter a value >=0: 3
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+------------------------------------------
+// III - 1 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+-------------------------------------------
+//III -2 & III -3 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 2
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 30
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 5
+Enter the name of the 2nd product: gamma
+Enter the per package price of gamma: 20
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for gamma, or 0 if no Special Discount offered: 3
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: 0
+Enter the number of gamma packages to buy: 0
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+No items were purchased
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: 35
+Enter the number of gamma packages to buy: 15
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+35 packages of alpha @ $30.00 per pkg = $1050.00 
+15 packages of gamma @ $20.00 per pkg = $300.00 
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+------------------------------------------------------------
+// IV - 1 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 4
+
+Shop is not setup yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+-----------------------------------------------
+//IV - 2 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 1
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 2
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 2
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 4
+
+Items have not been bought yet!
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 
+----------------------------------------
+//IV -3 & IV -4 LOG
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 2
+
+Enter the name of the 1st product: alpha
+Enter the per package price of alpha: 25
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for alpha, or 0 if no Special Discount offered: 3
+Enter the name of the 2nd product: gamma
+Enter the per package price of gamma: 35
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for gamma, or 0 if no Special Discount offered: 4
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of alpha packages to buy: 5
+Enter the number of gamma packages to buy: 5
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+5 packages of alpha @ $25.00 per pkg = $125.00 
+5 packages of gamma @ $35.00 per pkg = $175.00 
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 4
+
+Original Sub Total:        $300.00 
+Special Discounts:        -$60.00 
+New Sub Total:             $240.00 
+Additional 20% Discount:  -$48.00 
+Final Sub Total:           $192.00 
+
+Thanks for coming!
+
+---------------------------------------------
+Would you like to re-run (1 for yes, 0 for no)? 1
+---------------------------------------------
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 1
+Please enter the number of items to setup shop: 1
+
+Enter the name of the 1st product: omega
+Enter the per package price of omega: 3
+Enter the number of packages('x') to qualify for Special Discount (buy 'x' get 1 free) for omega, or 0 if no Special Discount offered: 5
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): .2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 2
+
+Enter the number of omega packages to buy: 2
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 3
+
+2 packages of omega @ $3.00 per pkg = $6.00 
+
+This program supports 4 functions:
+    1. Set Up Shop
+    2. Buy
+    3. List Items
+    4. Checkout
+Please choose the function you want: 4
+
+Thanks for coming!
+Sub Total:    $6.00 
+You did not qualify for an additional discount
+Total: $6.00 
+---------------------------------------------
+Would you like to re-run (1 for yes, 0 for no)? 0
+---------------------------------------------
+
+ 
