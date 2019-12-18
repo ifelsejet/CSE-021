@@ -1,0 +1,13 @@
+1. One way is to use typecasting by putting an (int) around the double value, we could create a seperate variable and cast the double into it, giving us an int value.
+2. You could declare it like: int[] array = {10,9,8,7,6,5,4,3,2,1};
+3. The scope is within the if loop, temp should be decleared outside of the if loop so that it is global, then both loops are able to access the variable
+4. The scope is only within the for loop, meaning that we can not access the total variable
+5. The print value shows how many times the loop runs, and the value of i after finishing the loop. It is ten since the loop runs 10 times before becoming false.
+6. The issue is that Cheese jack doesn't create a Cheese object, therfore we can't use the methods from Cheese
+7. 2 objects (jack, monterey) and 2 pointers are used for the objects
+8. We seem to be calling num2 everywhere, rather than just making it a global variable
+9. We make num2 a global variable, so we don't repeat it everywhere
+10. We can assign the first number to a variable, say num1, and print num1 later on.
+11. The constructor has the same name as the class and it takes in parameters, you could also declare similar to an array using new.
+12. The dot is used to access a method or variable from another object. In this case, we want to access the println method from out, inside the System class. In the other example, we want to use the display method from the object in index 1 of dlist.
+13. There is a Null Pointer Error, because we are trying to call the display function on an object that hasn't been created yet.

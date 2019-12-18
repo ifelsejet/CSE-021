@@ -1,0 +1,3 @@
+1. I got a 260/300 which roughly is an 86% 
+2. I didn't really use my notes to verify my answers, I used Eclispe for question #1 and realized I was wrong.
+3. I think I should review inheritance and 2D arrays a bit before the exam.

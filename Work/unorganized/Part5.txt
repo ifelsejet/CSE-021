@@ -1,0 +1,73 @@
+1a. ArrayList<Pomerian>
+1b. ArrayList<Pet>
+1c. ArrayList<Pet>
+1d. ArrayList<GreatDane>
+1e. ArrayList<Pet>
+1f. ArrayList<Cat>
+2. 
+Entering recur with k = 0
+Recursing with k = 0
+Entering recur with k = 1
+Recursing with k = 1
+Entering recur with k = 2
+Recursing with k = 2
+Entering recur with k = 3
+Recursing with k = 3
+Entering recur with k = 4
+Leaving recur with k = 4
+Leaving recur with k = 3
+Leaving recur with k = 2
+Leaving recur with k = 1
+Leaving recur with k = 0
+------- //End of recur version 1
+count = 0
+Entering recur with k = 1
+Recursing with k = 1
+Entering recur with k = 2
+Recursing with k = 2
+Entering recur with k = 3
+Recursing with k = 3
+Entering recur with k = 4
+Leaving recur with k = 4
+Leaving recur with k = 3
+Leaving recur with k = 2
+Leaving recur with k = 1
+------- //End of recur version 2
+------- //End of recur version 3
+count = 0
+Entering recur with k = 1
+Recursing with k = 1
+Entering recur with k = 2
+Recursing with k = 2
+Entering recur with k = 3
+Recursing with k = 3
+Entering recur with k = 4
+Leaving recur with k = 4
+Leaving recur with k = 3
+Leaving recur with k = 2
+Leaving recur with k = 1
+------- //End of recur version 4
+count = 0
+------- //End of recur version 5
+count = 0
+Entering recur with k = 1
+Recursing with k = 1
+Entering recur with k = 2
+Recursing with k = 2
+Entering recur with k = 3
+Recursing with k = 3
+Entering recur with k = 4
+Leaving recur with k = 4
+Leaving recur with k = 3
+Leaving recur with k = 2
+Leaving recur with k = 1
+------- //End of recur version 6
+
+3. I think you can use the same method as reverse6 but include s.substring(6,7) to make it work for 
+4a. It returns "ctnedifno"
+4b. It should be "tnedifnoc"
+4c. You can just return partial + firstLetter rather than firstLetter + partial
+5a. It returns 0
+5b. It returns 2
+5c. It returns 6
+5d. Any number that is not 0 and below 10. Also must be a single digit number such as 5.

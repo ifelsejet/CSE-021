@@ -1,0 +1,10 @@
+1. The counter class is simply a ulitlity class to represent a counter. We simply use the counter logic but don't need to create the object
+2. We don't need a main method since we don't need to run Counter, we simply want the logic. We use the runner class to run if need be.
+3. The keyword is "extends"
+4. public ModCounter(int n){..} is the constructor
+5. The cyclelength variable isn't visible since it is a private variable.
+6. It will extend to counter and use those methods.
+7. It will inherit the methods from the counter class to use.
+8. No, it does not.
+9. It does differ (can elaborate)
+10. ToString is being inherited from ModNcounter
